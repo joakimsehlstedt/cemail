@@ -1,4 +1,4 @@
-CEmail a PHP class for sending simple email messages.
+CEmail a PHP class for sending very simple email messages.
 ==================================
 
 By Joakim Sehlstedt
