@@ -2,7 +2,7 @@
     "name": "jox/cemail",    
     "type": "library",
     "description": "Classes for sending email",
-    "keywords": ["email",],
+    "keywords": ["email"],
     "homepage": "https://github.com/joxiba",
     "license": "MIT",
     "authors": [
