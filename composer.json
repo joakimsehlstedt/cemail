@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Classes for sending email",
     "keywords": ["email",],
-    "homepage": "http://dbwebb.se/",
+    "homepage": "https://github.com/joxiba",
     "license": "MIT",
     "authors": [
         {
