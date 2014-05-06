@@ -1,0 +1,22 @@
+{
+    "name": "jox/cemail",    
+    "type": "library",
+    "description": "Classes for sending email",
+    "keywords": ["email",],
+    "homepage": "http://dbwebb.se/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joakim Sehlstedt",
+            "email": "",
+            "homepage": "https://github.com/joxiba",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": { "Jox\\": "src/" }
+    }
+}
