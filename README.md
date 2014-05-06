@@ -1,6 +1,8 @@
 CEmail a PHP class for sending very simple email messages.
 ==================================
 
+This class sends a simple email message. It sanitizes and validates the "to" and "from" email addresses before anything is sent through.
+
 By Joakim Sehlstedt
 
 
