@@ -1,4 +1,5 @@
 <?php
+
 // Include CEmail
 include('../autoloader.php');
 
@@ -6,7 +7,7 @@ include('../autoloader.php');
 $email = new \Jox\Email\CEmail();
 
 // Send email and recieve send status string
-$content = $email->sendEmail('whatever@example.com', 'j.sehlstedt@me.com', 'Test email', 'Just a quick test to verify functionality!');
+$content = $email->sendEmail('from-whatever@example.com', 'to-whatever@example.com', 'Message Subjectline', 'Message body...');
 
 ?>
 
