@@ -33,6 +33,10 @@ $res = $app->email->sendEmail('from-whatever@example.com', 'to-whatever@example.
 ```
 The result of your sending will show up in the form of a string message in the $res variable.
 
+You can also test the function from the test.php file in the webroot folder included in the package.
+
+Don't forget to change the email addresses in the examples otherwise you wont see any messages!
+
 Good luck!
 
 License
