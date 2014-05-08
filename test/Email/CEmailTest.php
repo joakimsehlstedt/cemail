@@ -35,3 +35,4 @@ class CEmailTest extends \PHPUnit_Framework_TestCase
     public function testSendEmail() 
     {
     }
+}
