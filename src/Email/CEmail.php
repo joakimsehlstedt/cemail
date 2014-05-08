@@ -8,6 +8,14 @@ namespace Jox\Email;
  */
 class CEmail
 {
+    /**
+     * Constructor creating a CEmail instance.
+     *
+     * @return void
+     */
+    public function __construct()
+    {
+    }
 
     /**
      * Check email-address for spam content.
