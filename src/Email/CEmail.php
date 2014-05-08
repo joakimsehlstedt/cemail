@@ -20,6 +20,7 @@ class CEmail
     /**
      * Check email-address for spam content.
      * 
+     * @param string|null $address
      * @return string $address of validated email address. Returns FALSE if not valid.
      */
     public function checkAddress($address) {
