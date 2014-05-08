@@ -1,6 +1,10 @@
 CEmail a PHP class for sending very simple email messages.
 ==================================
 
+[![Build Status](https://travis-ci.org/joxiba/cemail.svg?branch=master)](https://travis-ci.org/joxiba/cemail)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/joxiba/cemail/badges/quality-score.png?s=18c09d69ce4a47869cf878a6adc663696fb38a1c)](https://scrutinizer-ci.com/g/joxiba/cemail/)
+[![Code Coverage](https://scrutinizer-ci.com/g/joxiba/cemail/badges/coverage.png?s=63c2abf3973631fbaeef41ef51615fc018e6cbfb)](https://scrutinizer-ci.com/g/joxiba/cemail/)
+
 This module sends a simple email message. It sanitizes and validates the "to" and "from" email addresses before anything is sent through. The module has been tested and designe for the Anax-MVC.
 
 By Joakim Sehlstedt
